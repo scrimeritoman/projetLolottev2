@@ -3,5 +3,7 @@ h1 {
  }
 
  nav {
-    color : red
+    color : red;
+    text-decoration: wavy;
  }
+ 
